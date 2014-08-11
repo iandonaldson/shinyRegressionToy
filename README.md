@@ -20,7 +20,7 @@ Instructions are included in the "instructions" tab of the app.
 
 If you'd like to play with the code, you can fork the repository or just hit the "clone in desktop" button in the bottom right corner of this screen.
 
-Open the project file (shinyRegreesionToy.Rproj) in RStudio.
+Open the project file (shinyRegressionToy.Rproj) in RStudio.
 Make changes to the code and view results by typing "runApp()" at the R command line.
 
 Dependencies
@@ -35,7 +35,9 @@ Need more help getting started using the code?
 ----------------------------------------------
 
 Try these links:
+
 http://http://shiny.rstudio.com/
+
 https://www.coursera.org/course/devdataprod
 
 
