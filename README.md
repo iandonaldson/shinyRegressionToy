@@ -1,7 +1,7 @@
 shinyRegressionToy
 ==================
 
-This is a demonstration of a shiny app.
+This is a demonstration of a shiny app that helps the user explore linear regression models.
 
 The user can create a set of X and Y values by specifying the mean and stdev for X and the slope and intercept 
 coefficients that relate X to Y.
