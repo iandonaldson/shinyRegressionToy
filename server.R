@@ -4,9 +4,17 @@
 #
 # http://shiny.rstudio.com
 #
-# installing a shiny server
+# deploying a shiny service on shinyapps.io
+# see https://github.com/rstudio/shinyapps/blob/master/guide/guide.md
+# and then
+# deployApp()
+# to deploy or redeploy with saved changes
+#
+# installing a shiny server on your own machine
 # http://table1.org/setting-up-an-ubuntu-server-with-nginx-up-to-run-shiny-applications/
-
+#
+# debugging shiny apps
+# http://shiny.rstudio.com/articles/debugging.html
 
 library(shiny)
 

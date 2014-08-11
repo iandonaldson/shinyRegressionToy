@@ -12,7 +12,7 @@ library(shiny)
 
 shinyUI(fluidPage(
   # Application title
-  titlePanel("regression toy"),
+  titlePanel("shiny regression toy"),
   
   sidebarLayout(
     sidebarPanel(title="controls",
@@ -54,7 +54,10 @@ shinyUI(fluidPage(
                            h6("Other"),
                            p("Other tabs on this page allow you to view the the actual values of X and Y (info tab) and histograms of the distributions of the X and Y variables (histogram tabs)."),
                            p("You can change the number of XY points in the simulation using the slider at the bottom of the left-hand panel."),
-                           p("You can also change the resolution of the histograms.")
+                           p("You can also change the resolution of the histograms."),
+                           br(),
+                           h6("Looking for the code?"),
+                           a("https://github.com/iandonaldson/shinyRegressionToy")
                   ),
                   tabPanel(title = "model",
                            plotOutput("scatterPlot"),
