@@ -36,7 +36,7 @@ Need more help getting started using the code?
 
 Try these links:
 
-http://http://shiny.rstudio.com/
+http://shiny.rstudio.com/
 
 https://www.coursera.org/course/devdataprod
 
