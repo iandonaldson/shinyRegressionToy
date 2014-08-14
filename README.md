@@ -18,6 +18,8 @@ This shiny app is hosted at http://iandonaldson.shinyapps.io/shinyRegressionToy/
 You can try it out there.
 Instructions are included in the "instructions" tab of the app.
 
+You can view a presentation about the app at http://iandonaldson.github.io/shinyRegressionToyTalk/.
+
 If you'd like to play with the code, you can fork the repository or just hit the "clone in desktop" button in the bottom right corner of this screen.
 
 Open the project file (shinyRegressionToy.Rproj) in RStudio.
